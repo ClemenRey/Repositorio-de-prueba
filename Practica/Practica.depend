@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1633550320 source:c:\users\clemente\desktop\organizacion de computadoras\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionalidad.h"
+	"math.h"
+	<string.h>
+	<unistd.h>
+
+1633450983 source:c:\users\clemente\desktop\organizacion de computadoras\practica\funcionalidad.c
+	"funcionalidad.h"
+
+1633548769 c:\users\clemente\desktop\organizacion de computadoras\practica\funcionalidad.h
+
+1633488248 source:c:\users\clemente\desktop\organizacion de computadoras\practica\implementacion.c
+	"funcionalidad.h"
+
